@@ -53,7 +53,7 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/isaquebraga/nome-do-repositorio.git
+   git clone https://github.com/isaquebraga/processo-seletivo-target.git
    ```
 
 2. Acesse os arquivos individualmente para ver as resoluções de cada questão.
